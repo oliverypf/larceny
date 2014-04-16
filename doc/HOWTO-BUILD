@@ -20,9 +20,13 @@ See README-FIRST.txt for more details.
 If you want to build Larceny or Petit Larceny entirely from source,
 you will also need a C compiler (such as gcc).  For x86-32 targets,
 you will also need the NASM assembler [2].
+如果你想编译整个Larceny或者Petit Larceny，你将也需要一个C编译器(比如gcc)。
+对于x86-32平台，你将也需要NASM汇编器。
 
 To build Common Larceny, see the Common Larceny documentation in
 doc/CommonLarceny/user-manual.txt.
+想构建Common Larceny,需要读Common Larceny文档，文档在
+doc/CommonLarceny/user-manual.txt这个文件里。
 
 
 WHAT TO DO
