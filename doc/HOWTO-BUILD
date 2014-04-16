@@ -3,9 +3,11 @@ Building Larceny
 
 
 WHAT YOU NEED
+你需要什么
 
 Most users of Larceny will never need to build Larceny from source,
 and can ignore this documentation.
+大多数Larceny用户永远都不会从源代码编译Larceny，可以忽略这个文档。
 
 If you want to recompile the Scheme sources entirely from source, you
 will need the source code plus a Scheme system that can host Larceny's
